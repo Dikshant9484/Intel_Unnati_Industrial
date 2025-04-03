@@ -1,1 +1,2 @@
 # Intel_Unnati_Industrial
+I am doing this project for automatically sorting system using mechatronics principle , which generally deals with the idea of implementing robotics hands which sorts the object on the basis of colour, shape , size. maintaing the accuracy, modularity, and enhances the usefulness.
